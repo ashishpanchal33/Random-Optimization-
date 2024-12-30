@@ -1,0 +1,3 @@
+,Iteration,Time,Fitness,FEvals,Restarts,max_iters,current_restart
+0,0,2.5042012566700578e-05,9.0,0.0,1,1024,0
+1,1,0.0009439169953111559,9.0,1.0,1,1024,0

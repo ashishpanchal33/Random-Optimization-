@@ -1,0 +1,13 @@
+,Problem,Problem_size,Algorithm,best_params,Fitness,max_attempts,max_Time,Iteration
+0,ContinuousPeaksGenerator,"{'size': 25, 't_pct': 0.1}",Random_hill_climb,{'Restarts': 1.0},46,100,0.015714291999756824,310
+1,ContinuousPeaksGenerator,"{'size': 25, 't_pct': 0.1}",Simulated_annealing,{'Temperature': 0.1},46,100,0.11768949999998313,475
+2,ContinuousPeaksGenerator,"{'size': 25, 't_pct': 0.1}",Genetic_Algorithm,"{'Population Size': 50.0, 'Mutation Rate': 0.3}",46,10,0.13751730000001314,56
+3,ContinuousPeaksGenerator,"{'size': 25, 't_pct': 0.1}",MIMIC,"{'Population Size': 100.0, 'Keep Percent': 0.775}",44.5,10,0.0536967,31
+4,FlipFlopGenerator,{'size': 10},Random_hill_climb,{'Restarts': 1.0},8,10,0.006706083,25
+5,FlipFlopGenerator,{'size': 10},Simulated_annealing,{'Temperature': 0.1},9,10,0.0422914,80
+6,FlipFlopGenerator,{'size': 10},Genetic_Algorithm,"{'Population Size': 200.0, 'Mutation Rate': 0.3}",9,10,0.015383799999995063,4
+7,FlipFlopGenerator,{'size': 10},MIMIC,"{'Population Size': 200.0, 'Keep Percent': 0.325}",9,10,0.010573237499897914,1
+8,TSPGenerator,{'number_of_cities': 10},Random_hill_climb,{'Restarts': 1.0},718.6772744381386,10,0.0071715,69
+9,TSPGenerator,{'number_of_cities': 10},Simulated_annealing,{'Temperature': 10.0},718.6772744381386,100,0.0441716,281
+10,TSPGenerator,{'number_of_cities': 10},Genetic_Algorithm,"{'Population Size': 10.0, 'Mutation Rate': 0.3}",718.6772744381386,500,0.9558344,657
+11,TSPGenerator,{'number_of_cities': 10},MIMIC,"{'Population Size': 50.0, 'Keep Percent': 0.55}",779.3870454121347,100,0.2392859999999928,120

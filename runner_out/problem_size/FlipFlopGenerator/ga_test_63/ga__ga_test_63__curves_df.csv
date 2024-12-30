@@ -1,0 +1,3 @@
+,Iteration,Time,Fitness,FEvals,Population Size,Mutation Rate,max_iters
+0,0,6.562500493600965e-05,5.0,0.0,200.0,0.3,1024
+1,1,0.0034242500260006636,9.0,2.0,200.0,0.3,1024
